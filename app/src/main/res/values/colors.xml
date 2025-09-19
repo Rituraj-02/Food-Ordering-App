@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#1FC57A</color>
+    <color name="endColor">#FF6200EE</color>
+    <color name="startColor">#FF6200EE</color>
+    <color name="iconColor">#FF000000</color>
+    <color name="red">#DB1616</color>
+    <color name="arrowcolor">#FEAD1D</color>
+
+    <color name="green">#308334</color>
+
+</resources>

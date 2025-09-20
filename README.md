@@ -57,27 +57,35 @@ Run the app on an Android emulator or physical device.
 ## 📸 Screenshots
 
 **First Page**  
+
 ![First Page](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/First%20Page.jpeg)  
 
 **Menu Item**  
+
 ![Menu Item](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Menu%20Item.jpeg)  
 
-**Order Confirm**  
+**Order Confirm** 
+
 ![Order Confirm](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Order%20Confirm.jpeg)  
 
 **Order Item List**  
+
 ![Order Item List](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Order%20Item%20List.jpeg)  
 
 **Order History**  
+
 ![Order History](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Order%20History.jpeg)  
 
 **Order Update**  
+
 ![Order Update](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Order%20Update.jpeg)  
 
 **Customer Details**  
+
 ![Customer Details](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Customer%20Details.jpeg)  
 
 **Bill Details**  
+
 ![Bill Details](https://github.com/Rituraj-02/Food-Ordering-App/blob/main/User%20Panel/Bill%20Details.jpeg)  
 
 ---
